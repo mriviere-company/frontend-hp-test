@@ -1,0 +1,56 @@
+.page-container, form-container {
+    margin-bottom: 20px;
+}
+
+.nav-link {
+    margin-right: 15px;
+    color: blue;
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.input-warning {
+    color: orange;
+    margin-left: 10px;
+}
+
+.quantity-label {
+    margin-left: 10px;
+}
+
+.input-field {
+    margin-left: 10px;
+}
+
+.remove-item-btn {
+    margin-left: 10px;
+}
+
+.add-item-btn {
+    margin-top: 10px;
+}
+
+.error-list {
+    color: red;
+    margin-top: 20px;
+}
+
+.success-message {
+    color: green;
+}
+
+.delete-btn {
+    margin-top: 20px;
+    color: white;
+    background-color: red;
+    padding: 10px;
+    cursor: pointer;
+}

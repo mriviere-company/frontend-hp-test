@@ -1,0 +1,19 @@
+.link-container {
+    margin-bottom: 20px;
+}
+
+.link {
+    margin-right: 15px;
+    color: blue;
+    text-decoration: underline;
+}
+
+.order-list-item {
+    margin-bottom: 15px;
+}
+
+.update-link {
+    margin-right: 10px;
+    color: green;
+    text-decoration: underline;
+}

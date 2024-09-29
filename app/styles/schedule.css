@@ -1,0 +1,21 @@
+.page-container {
+    margin-bottom: 20px;
+}
+
+.nav-link {
+    margin-right: 15px;
+    color: blue;
+    text-decoration: underline;
+}
+
+.schedule-list li {
+    margin-bottom: 20px;
+}
+
+.red-text {
+    color: red;
+}
+
+.green-text {
+    color: green;
+}
