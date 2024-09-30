@@ -18,4 +18,6 @@ npm start
 # About the project, it needs :
 - Better UI
 - Add translation for later can be able to switch fr/en
-- Deploy on prod
+
+# Frontend in prod :
+https://frontend-hp-test.vercel.app/orders
