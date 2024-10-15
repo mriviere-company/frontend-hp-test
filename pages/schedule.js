@@ -59,7 +59,7 @@ export default function Schedule() {
                 <Link href="/new-order">
                     <span className="nav-link">Create New Order</span>
                 </Link>
-                <Link href="/orders">
+                <Link href="/">
                     <span className="nav-link">Orders</span>
                 </Link>
             </div>

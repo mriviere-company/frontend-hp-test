@@ -137,7 +137,7 @@ export default function NewOrder() {
     return (
         <div>
             <div className="page-container">
-                <Link href="/orders">
+                <Link href="/">
                     <span className="nav-link">Get back to Orders list</span>
                 </Link>
             </div>

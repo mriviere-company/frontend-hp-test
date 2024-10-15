@@ -36,7 +36,7 @@ export default function Id() {
             })
                 .catch(err => {
                     if (err.response && err.response.status === 404) {
-                        router.push('/orders');
+                        router.push('/');
                     } else {
                         setError('Error fetching order details');
                     }
@@ -163,7 +163,7 @@ export default function Id() {
                     }
                 })
                 alert('Order deleted successfully!');
-                await router.push('/orders');
+                await router.push('/');
             } catch (err) {
                 setError(`Error deleting order: ${err.response ? err.response.data.message : 'Unknown error'}`);
             }
@@ -175,7 +175,7 @@ export default function Id() {
     return (
         <div>
             <div className="page-container">
-                <Link href="/orders">
+                <Link href="/">
                     <span className="nav-link">Get back to Orders list</span>
                 </Link>
             </div>
