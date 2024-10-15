@@ -10,7 +10,7 @@ npm run build
 npm start
 
 # How to use :
-- List Orders -> /orders
+- List Orders -> /
 - Create new Order -> /new-order
 - Update or delete Order -> /update-order/{id}
 - Schedule of Order -> /schedule
@@ -20,4 +20,4 @@ npm start
 - Add translation for later can be able to switch fr/en
 
 # Frontend in prod :
-https://frontend-hp-test.vercel.app/orders
+https://frontend-hp-test.vercel.app
